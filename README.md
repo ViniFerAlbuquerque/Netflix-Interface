@@ -4,3 +4,5 @@
 
 
  [🔗Clique Aqui Para Acessar](https://viniferalbuquerque-netflix-interface.netlify.app)
+ <br>
+ https://viniferalbuquerque.github.io/Netflix-Interface/
