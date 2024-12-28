@@ -3,6 +3,6 @@
 <img src="https://raw.githubusercontent.com/ViniFerAlbuquerque/Netflix-Projeto-Programacao-Do-Zero-git/35de706072132e0fa54fcf1d52e8780f12b4f30e/Netflix%20Interface.jpeg"/>
 
 
- [🔗Clique Aqui Para Acessar](https://viniferalbuquerque-netflix-interface.netlify.app)
+ [🔗Clique Aqui Para Acessar]( https://viniferalbuquerque.github.io/Netflix-Interface/)
  <br>
- https://viniferalbuquerque.github.io/Netflix-Interface/
+<h6> https://viniferalbuquerque.github.io/Netflix-Interface/ </h6>
